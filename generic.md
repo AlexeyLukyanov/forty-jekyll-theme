@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Smart Box
+description: Bought my cat an expensive bed, but he prefers the box it came in. True minimalist at heart!
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Cat Fitness
+description: My cat found a new way to exercise – chasing the red laser dot. Every morning now starts with feline aerobics!
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
