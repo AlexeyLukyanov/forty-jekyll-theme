@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, Welcome to Cat Memes Central'
+landing-title: 'Hi, Welcome to CAT Memes Central'
 description: null
 image: null
 author: null
